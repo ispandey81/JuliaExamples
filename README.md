@@ -1,2 +1,2 @@
 # JuliaExamples
-Sample code for getting started with Julia
+Sample code snippets for getting started with Julia
