@@ -17,4 +17,4 @@ end
 # calling the function
 insertionSort!(example_array)
 # printing the modified array
-example_array
+print(example_array)

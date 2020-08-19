@@ -19,6 +19,6 @@ end
 # calling the function
 bubbleSort!(example_array)
 # printing the modified array
-example_array
+print(example_array)
 
     
