@@ -9,7 +9,7 @@ end
 nterms = 9
 
 if nterms <= 0
-    print("Plese enter a positive integer")
+    println("Please enter a positive integer")
 else
     println("Fibonacci sequence:")
     # this will print 10 numbers in the sequence as nterms = 9
